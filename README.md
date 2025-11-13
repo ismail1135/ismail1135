@@ -1,53 +1,63 @@
-<h1 align="center">Hi, I'm Ismail 👋</h1>
-<p align="center">A passionate Frontend & Backend Developer from Türkiye</p>
+<h1 align='center'>👋 İsmail Altın 🐈‍⬛ ✨</h1>
 
----
+<p align='center'>Seeking new habits 🪴 | coding unique applications 👽 | arguing with Kiki 😾</p>
+<p align='center'>A dreamer trying to enter the market using React and wanting to earn their own income</p>
 
-### 💻 About Me
+<p align="center">
+  <img src="https://i.imgur.com/TOE2TBO.gif" alt="Kiki Cat" width="150">
+</p>
 
-- 🎓 Currently studying **Web Development** at Ankara University  
-- 💻 Learned the basics of **Web & Mobile Frontend** in high school  
-- 🚀 Took a gap year to improve myself and explore different technologies  
-- 🌱 Comfortable with **Flutter** and always learning more about **Web Development**  
-- ⚡ Enjoy building projects that combine creativity and functionality  
+***
 
----
+## 🎧 My way of working
+<p>🎶 + 🧑‍🍳 + 🎦 + 📊 = <em>Endless energy</em>
+  <br/>
+I enjoy long-term projects, but because I expect results too soon, I'm quite likely to abandon them halfway through 🤕 I'm trying to overcome this. Other than that, I'm just like other solo developers🧑‍💻
+</p>
+<p><small>And please disregard the unrelated projects on my page. My actual project development period begins with the Kiki project.</small></p>
 
-### ⚙️ Tech Stack
+***
 
-#### 💻 Programming Languages
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](#)
+## 💿 Tech Stack & Tools
+`languages`
+<br/>
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,react,flutter)](https://skillicons.dev)
+<br/>
+<br/>
+`Database`
+<br/>
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=firebase,supabase)](https://skillicons.dev)
+<br/>
+<br/>
+`Tools`
+<br/>
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,obsidian,notion)](https://skillicons.dev)
 
-#### ⚙️ Frameworks & Tools
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+***
 
----
+## 📈 GitHub Stats
 
-### 📫 Let's Connect
+![ismail1135's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail1135&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ismail1135&theme=transparent)](https://git.io/streak-stats)
 
-- 📧 Email: [isot1821@outlook.com](mailto:isot1821@outlook.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ismail-altın-96931934b)  
-- 🌐 [GitHub](https://github.com/ismail1135)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail1135&theme=transparent&layout=compact" />
+</p>
 
----
+***
 
-### 📊 GitHub Stats
+## 🤝 Let's Team Up!
+Maybe you'd like to work with me or make an offer.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismail1135&show_icons=true&theme=radical) 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGU5Z24zbzQ2ZjA2ZTFsaHF6MzRrN2x1NTh4cTF3ZmU4b2dqNmxuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rho9L4MsYXaec/giphy.gif" width='100' />
 
----
+<div align="center">
 
-### LeetCode Stats
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1278B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-alt%C4%B1n-96931934b)
+[![Instagram](https://img.shields.io/badge/Instagram-D3296F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/klauskuska/#)
+[![Email](https://img.shields.io/badge/Email-E63F38?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailaltin1821@gmail.com)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ismail1135?theme=transparent)
-
----
-
-![](https://komarev.com/ghpvc/?username=ismail1135&color=blueviolet&style=for-the-badge)
+</div>
