@@ -40,8 +40,14 @@ I enjoy long-term projects, but because I expect results too soon, I'm quite lik
 
 ## 📈 GitHub Stats
 
-![ismail1135's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail1135&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ismail1135&theme=transparent)](https://git.io/streak-stats)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ismail1135&show_icons=true&theme=transparent" style="display:inline-block;margin-right:10px;" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=ismail1135&theme=transparent" style="display:inline-block;" />
+</a>
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail1135&theme=transparent&layout=compact" />
