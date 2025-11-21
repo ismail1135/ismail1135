@@ -14,7 +14,6 @@
   <br/>
 I enjoy long-term projects, but because I expect results too soon, I'm quite likely to abandon them halfway through 🤕 I'm trying to overcome this. Other than that, I'm just like other solo developers🧑‍💻
 </p>
-<p><small>And please disregard the unrelated projects on my page. My actual project development period begins with the Kiki project.</small></p>
 
 ***
 
